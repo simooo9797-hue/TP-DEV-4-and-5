@@ -10,7 +10,7 @@ export default function HomeScreen({ navigation }) {
 
       <Text style={styles.title}>Bienvenue !</Text>
       <Text style={styles.subtitle}>
-       Tp realisé par AYOUB DIF (4IIR G6)
+       Tp realisé par mohamed saidi (4IIR G6)
       </Text>
 
       <TouchableOpacity 
